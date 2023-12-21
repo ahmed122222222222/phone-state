@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813990713950",
+    "project_id": "sailent-f259a",
+    "storage_bucket": "sailent-f259a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813990713950:android:9ee299c66b202b0e8ef2cf",
+        "android_client_info": {
+          "package_name": "com.example.silent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZwoQnSutEdJbTPPGB9MQnRuTOcYc29Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
